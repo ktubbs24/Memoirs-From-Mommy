@@ -72,7 +72,7 @@ You can simply [`Sync Fork`](https://docs.github.com/en/pull-requests/collaborat
 
 ## Customization
 
-Typography is highly customizable. The config file is in [src/theme.config.ts](src/theme.config.ts)
+Typography is highly customizable. The config file is in [theme.config.ts](theme.config.ts)
 
 ### Social links
 
@@ -132,7 +132,7 @@ For now, Typography supports below languages:
 - `zh-tw`
 - `ja-jp`
 
-You can see all supported languages in [src/i18n.ts](src/i18n.ts), and add more if you need.
+You can see all supported languages in [i18n.ts](i18n.ts), and add more if you need.
 
 ### Comment
 

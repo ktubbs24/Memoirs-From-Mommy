@@ -72,7 +72,7 @@ pnpm new-post
 
 ## 定制化
 
-「活版印字」主题是高度可定制的。配置文件在[src/theme.config.ts](src/theme.config.ts)
+「活版印字」主题是高度可定制的。配置文件在[theme.config.ts](theme.config.ts)
 
 ### 社交链接
 
@@ -129,7 +129,7 @@ locale: "zh-cn"
 - `zh-tw`
 - `ja-jp`
 
-您可以在[src/i18n.ts](src/i18n.ts)中查看所有支持的语言，并根据需要添加更多。
+您可以在[i18n.ts](i18n.ts)中查看所有支持的语言，并根据需要添加更多。
 
 ### 评论
 
